@@ -8,6 +8,11 @@ __pycache__/
 .ipynb_checkpoints
 
 
+# data folder
+data/raw/
+data/processed/
+
+
 # Environments
 .env
 .envrc
