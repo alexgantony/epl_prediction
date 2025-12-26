@@ -24,6 +24,9 @@ env.bak/
 venv.bak/
 
 
+# Logs 
+logs/validation_report.json
+
 # Visual Studio Code
 .vscode/
 
